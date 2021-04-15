@@ -15,4 +15,5 @@
 - [ ] dockerize it (just for fun)
 - [ ] implement more functional stuff. with typescript. you can do it.
 - [ ] improve tests
-    You have to try TDD, jest is already set, you have no excuse, Matheus 
+  
+        You have to try TDD, jest is already set, you have no excuse, Matheus 
